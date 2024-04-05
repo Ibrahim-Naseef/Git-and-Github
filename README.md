@@ -12,8 +12,7 @@
   - [Basic Terms and Commands](#basic-terms-and-commands)
   - [Additional Git Commands](#additional-git-commands)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [Certificate](#certificate)
 
 ## About
 
@@ -102,4 +101,7 @@ This repository provides comprehensive documentation, tutorials, and resources t
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+
+## Certificate
+![image](https://github.com/Ibrahim-Naseef/Git-and-Github/assets/156147657/0cb394ff-3270-4785-93fe-5d0de41dcdce)
 
