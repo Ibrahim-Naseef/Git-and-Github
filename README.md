@@ -42,7 +42,7 @@ This repository provides comprehensive documentation, tutorials, and resources t
 
 1. Install Git on your local machine: [Download Git](https://git-scm.com/)
 2. Create a GitHub account: [Sign up for GitHub](https://github.com/join)
-3. Clone this repository to your local machine: `git clone https://github.com/your_username/git-and-github.git`
+3. Clone this repository to your local machine: `git clone https://github.com/ibrahim-naseef/git-and-github.git`
 
 ## Usage
 
@@ -102,16 +102,4 @@ This repository provides comprehensive documentation, tutorials, and resources t
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
 
-📝 This project is licensed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-
-📧 For any inquiries or feedback, you can reach out to the project maintainer:
-
-- John Doe
-- Email: john.doe@example.com
-- LinkedIn: [John Doe](https://www.linkedin.com/in/johndoe/)
-
-Project Link: [https://github.com/your_username/git-and-github](https://github.com/your_username/git-and-github)
