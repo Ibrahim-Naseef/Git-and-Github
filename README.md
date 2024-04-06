@@ -1,4 +1,4 @@
-j# Git and GitHub
+# Git and GitHub
 
 🚀 Welcome to Git and GitHub! This repository serves as a comprehensive guide and resource for mastering Git version control system and GitHub collaboration platform.
 
